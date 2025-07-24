@@ -34,7 +34,7 @@ A Streamlit application for analyzing YouTube video comments using Natural Langu
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/murapa96/YoutubeNLP.git
+git clone https://github.com/subhiarjaria18/Youtube_nlp
 cd YoutubeNLP
 ```
 
@@ -75,14 +75,3 @@ streamlit run app.py
 - **Customizable**: Analysis options allow for comment count and sorting preferences
 - **Efficient Processing**: Uses batched processing for better performance with large comment volumes
 
-## Credits
-
-Created by [Pablo Ramos Muras](https://github.com/murapa96)
-
-## License
-
-This project is licensed under the terms of the license included in the repository.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
